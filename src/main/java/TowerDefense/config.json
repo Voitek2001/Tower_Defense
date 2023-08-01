@@ -1,0 +1,32 @@
+{
+  "AppConfig" :
+  {
+    "resourcesPath" : "src/main/java/resources",
+    "absoluteResourcesPath" : "C:/Users/Wojtek/IdeaProjects/oolab/ooplab/lab8/src/main/java/resources",
+    "widthOfScene" : 1300,
+    "heightOfScene" : 750,
+    "numberOfElements" : 10
+
+  },
+  "SimulationConfig" :
+  {
+    "numberOfElements" : 10,
+
+    "damageFromTowers": 10,
+    "towerRange": 5,
+    "towerCost": 200,
+
+    "startHPForCastle": 200,
+    "castleHP": 1000,
+
+    "enemiesHP": 200,
+    "enemiesDamage": 20,
+    "enemyKillReward": 50,
+
+    "startGold": 1000,
+
+    "wallHP": 60,
+    "wallCost": 100
+  }
+}
+
